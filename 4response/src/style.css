@@ -1,0 +1,24 @@
+#screen {
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  user-select: none;
+  border: 1px solid black;
+}
+
+#screen.waitingAqua {
+  background-color: aqua;
+}
+
+#screen.readyYellow {
+  background-color: yellowgreen;
+  color: white;
+}
+
+#screen.nowRed {
+  background-color: red;
+}
+
+#screen.failGray {
+  background-color: gray;
+}
