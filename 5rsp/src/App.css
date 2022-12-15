@@ -1,0 +1,13 @@
+.computer {
+  width: 300px;
+  height: 300px;
+  font-size: 50px;
+  background-color: aqua;
+  text-align: center;
+}
+
+.wincolor {
+  font-size: 80px;
+  font-style: italic bold;
+  color: red;
+}
